@@ -22,4 +22,7 @@ Every issue that doesn't respect the template will be immediately closed.
 
 If you want some infos about the current status feel free to check the [Project Page](https://github.com/orgs/Descendant/projects/1)
 
+
+Also suggestions are always welcome, feel free to open an issue for that too labeling the title as "Suggestion: Title suggestion"
+
 Have a nice time.
