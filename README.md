@@ -16,7 +16,7 @@ So please, if you have a problem open an issue in this repo following this templ
 
 **Full Bugreport/Trimmed Logcat:**
 
-
+**Gapps:**
 
 Every issue that doesn't respect the template will be immediately closed. 
 
