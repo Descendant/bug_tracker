@@ -2,7 +2,7 @@
 
 This repo serves the ROM "flow" to keep track of the bugs and list them under the [Project Page](https://github.com/orgs/Descendant/projects/1) of this organization. 
 
-So please, if you have a problem open an [issue in this repo](https://github.com/Descendant/bug_tracker/issues) following this template:
+So please, if you have a problem open an [issue in this repo](https://github.com/Descendant/bug_tracker/issues/new) following this template:
 
 
 
